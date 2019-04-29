@@ -3,7 +3,7 @@ import Vue from 'vue';
 import _GroupedList from './components/GroupedList';
 
 export default {
-    registerGlobally() {
+    registerGlobally: function() {
         Vue.component('grouped-list', _GroupedList);
     },
 };
