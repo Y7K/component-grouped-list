@@ -1,6 +1,6 @@
 {
     "name": "@y7k/component-grouped-list",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A container that groups children dom nodes by a specific property, also on dynamic addition",
     "main": "src/js/main.js",
     "scripts": {
